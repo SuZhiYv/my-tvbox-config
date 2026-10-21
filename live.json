@@ -1,0 +1,6 @@
+{
+  "lives": [
+    {"name": "全国直播(自动更新)", "type": 0, "url": "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u"},
+    {"name": "iptv-org中国频道", "type": 0, "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"}
+  ]
+}
