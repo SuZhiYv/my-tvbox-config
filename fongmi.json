@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {"name": "老刘备", "url": "https://raw.liucn.cc/box/m.json"},
+    {"name": "小盒子4K", "url": "http://xhztv.top/4k.json"},
+    {"name": "玄珠", "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json"},
+    {"name": "dxawi", "url": "https://dxawi.github.io/0/0.json"},
+    {"name": "拾光svip", "url": "https://jiekou.netlify.app/svip.json"},
+    {"name": "clun", "url": "https://clun.top/box.json"},
+    {"name": "伦理(18+)", "url": "http://47.96.82.41:5188/rose/18/xgg.json"},
+    {"name": "小马", "url": "https://szyyds.cn/tv/x.json"},
+    {"name": "王二小aiwex", "url": "https://9280.kstore.vip/aiwex.json"},
+    {"name": "王二小newwex", "url": "https://9280.kstore.vip/newwex.json"},
+    {"name": "王二小wex", "url": "https://9280.kstore.vip/wex.json"},
+    {"name": "直播频道(全国+iptv-org)", "url": "https://cdn.jsdelivr.net/gh/SuZhiYv/my-tvbox-config@main/live.json"}
+  ]
+}
